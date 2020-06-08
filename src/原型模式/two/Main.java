@@ -1,4 +1,4 @@
-package 原型模式;
+package 原型模式.two;
 
 public class Main {
     public static void main(String[] args){

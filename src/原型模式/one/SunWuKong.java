@@ -1,4 +1,4 @@
-package 原型模式;
+package 原型模式.one;
 
 public class SunWuKong implements Cloneable{
     private String name;
